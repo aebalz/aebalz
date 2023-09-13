@@ -19,15 +19,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 11 September 2023
+From: 06 September 2023 - To: 12 September 2023
 
-Total Time: 7 hrs 27 mins
+Total Time: 10 hrs 41 mins
 
-Python     6 hrs 33 mins   ██████████████████████░░░   88.12 %
-Markdown   53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Prolog     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GDScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python         9 hrs 9 mins    █████████████████████▒░░░   85.66 %
+Markdown       53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+ActionScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Prolog         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+GDScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
