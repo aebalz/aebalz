@@ -19,14 +19,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Total Time: 10 hrs 41 mins
+Total Time: 16 hrs 17 mins
 
-Python         9 hrs 9 mins    █████████████████████▒░░░   85.66 %
-Markdown       53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-ActionScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python         11 hrs 33 mins  █████████████████▓░░░░░░░   70.94 %
+Go             2 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+Markdown       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+ActionScript   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JSON           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Prolog         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 GDScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
