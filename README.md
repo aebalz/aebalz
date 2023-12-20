@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 18 December 2023
+From: 06 September 2023 - To: 19 December 2023
 
-Total Time: 182 hrs 44 mins
+Total Time: 185 hrs 44 mins
 
-Python         155 hrs 28 mins █████████████████████▒░░░   85.08 %
-Go             17 hrs 1 min    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-JavaScript     4 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-TypeScript     2 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Markdown       1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python         155 hrs 28 mins █████████████████████░░░░   83.71 %
+Go             20 hrs 1 min    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+JavaScript     4 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+TypeScript     2 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown       1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ActionScript   38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 JSON           30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 Other          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
