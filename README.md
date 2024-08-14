@@ -36,4 +36,4 @@ JSON              2 hrs 34 mins   ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aebalz&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aebalz&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aebalz&repo=go-gin-gone&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
