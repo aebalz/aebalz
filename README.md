@@ -1,9 +1,7 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋 
 
 - 🔭 I’m currently working on OWL Development
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently GO Developer
 -  ⚡ Fun fact: Gaming
   
   <!--
