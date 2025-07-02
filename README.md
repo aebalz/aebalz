@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 September 2023 - To: 30 June 2025
+From: 06 September 2023 - To: 01 July 2025
 
-Total Time: 1,360 hrs 35 mins
+Total Time: 1,361 hrs 38 mins
 
-Go                620 hrs 2 mins  ███████████▒░░░░░░░░░░░░░   45.57 %
-Python            558 hrs 1 min   ██████████▒░░░░░░░░░░░░░░   41.01 %
-JSON              78 hrs 31 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Go                620 hrs 40 mins ███████████▒░░░░░░░░░░░░░   45.58 %
+Python            558 hrs 1 min   ██████████▒░░░░░░░░░░░░░░   40.98 %
+JSON              78 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 Other             23 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 JavaScript        10 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Protocol Buffer   9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
