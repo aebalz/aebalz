@@ -15,17 +15,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 September 2023 - To: 17 December 2025
+From: 06 September 2023 - To: 18 December 2025
 
-Total Time: 1,527 hrs 59 mins
+Total Time: 1,530 hrs 45 mins
 
-Go                727 hrs 16 mins ████████████░░░░░░░░░░░░░   47.60 %
-Python            566 hrs         █████████▒░░░░░░░░░░░░░░░   37.04 %
-JSON              106 hrs 57 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Go                728 hrs 39 mins ████████████░░░░░░░░░░░░░   47.60 %
+Python            566 hrs 2 mins  █████████▒░░░░░░░░░░░░░░░   36.98 %
+JSON              107 hrs 13 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 Other             25 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+YAML              12 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 JavaScript        12 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-YAML              11 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-INI               10 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+INI               11 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 Docker            10 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 CSV               10 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Protocol Buffer   9 hrs 38 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
