@@ -17,11 +17,11 @@
 ```python
 From: 06 September 2023 - To: 21 May 2026
 
-Total Time: 1,675 hrs 48 mins
+Total Time: 1,676 hrs 5 mins
 
-Go                820 hrs 4 mins        ████████████▒░░░░░░░░░░░░   48.94 %
-Python            567 hrs 35 mins       ████████▒░░░░░░░░░░░░░░░░   33.87 %
-JSON              135 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Go                820 hrs 6 mins        ████████████▒░░░░░░░░░░░░   48.93 %
+Python            567 hrs 35 mins       ████████▒░░░░░░░░░░░░░░░░   33.86 %
+JSON              136 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 Other             27 hrs 22 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 INI               17 hrs 30 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 JavaScript        17 hrs 6 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
